@@ -1,4 +1,4 @@
-# ?? Gallery App
+# ? Gallery App
 Mobile gallery application for iOS and Android.
 
 ## Features
